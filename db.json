@@ -8,7 +8,24 @@
   "profile": {
     "name": "typicode"
   },
-  "expiredquote": {
-    "total": 150
+  "totalExpQuotes": {
+    "total": 250
+  },
+  "openOppIDs": {
+    "openOppIDs": [
+      "0060o00001CigMg",
+      "0060o00001CigMf",
+      "0060o00001CigMd"
+    ]
+  },
+  "openQuoteIDs": {
+    "openQuoteIDs": [
+      "0Q00o000002Npc0",
+      "0Q00o000002Npd0",
+      "0Q00o000002Npe0"
+    ]
+  },
+  "update": {
+    "success": "Great, the start date has been updated for selected quote.Also the pricing will be updated for quote based on latest active list price"
   }
 }
