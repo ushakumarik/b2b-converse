@@ -1,11 +1,3 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "update": {
-    "success": "Great, the start date has been updated for selected quote.Also the pricing will be updated for quote based on latest active list price"
-  }
+  "posts": "hi"
 }
